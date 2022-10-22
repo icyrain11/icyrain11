@@ -1,20 +1,21 @@
-### Hi there 👋
-
-I am icyrain11
+### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">，I’m IcyRain11
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icyrain11)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icyrain11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**icyrain11/icyrain11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 I’m currently a undergraduate in China and a fan of Kyrie Irving
+- 👨‍💻 I’m currently learning Java js html css etc...
+- 💬 Ask me about Anything you want~
+- 📫 Reach me: [email](mailto:734931302@qq.com)
+- 🎣 Fun fact: Reading,  watching movies, traveling, exercising, playing video games
+
+**「Stay hungry，Stay foolish.」** ❤️ 
+
+<hr/>
+
+🏆 **my github stats:**
+  
+|![](https://github-readme-stats.vercel.app/api?username=icyrain11)|![Anzhihe's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=icyrain11&layout=compact&hide_border=true&langs_count=10)|
+|-|-|
+
+![](https://raw.githubusercontent.com/anzhihe/anzhihe/main/assets/github-contribution-grid-snake.svg)
