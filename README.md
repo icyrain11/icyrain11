@@ -8,6 +8,7 @@
 - 💬 Ask me about Anything you want~
 - 📫 Reach me: [email](mailto:734931302@qq.com)
 - 🎣 Fun fact: Reading,  watching movies, traveling, exercising, playing video games
+- 🐱 The cat cat taught Super love cats!!!
 
 **「Stay hungry，Stay foolish.」** ❤️ 
 
