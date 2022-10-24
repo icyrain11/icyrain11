@@ -9,7 +9,7 @@
 - 📫 Reach me: [email](mailto:734931302@qq.com)
 - 🎣 Fun fact: Reading,  watching movies, traveling, exercising, playing video games
 - 🐱 The cat cat taught Super love cats!!!
-- 💡 super love The Weeknd I hope I can go to his performance at a time
+- 💡 Super love The Weeknd I hope I can go to his performance at a time
 
 **「Stay hungry，Stay foolish.」** ❤️ 
 
