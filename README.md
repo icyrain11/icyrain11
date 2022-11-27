@@ -10,7 +10,7 @@
 - 🎣 Fun fact: Reading,  watching movies, traveling, exercising, playing video games
 - 🐱 The cat cat taught Super love cats!!!
 - 💡 Super love The Weeknd I hope I can go to his performance at a time
--   my xitu address https://juejin.cn/user/497411949075080
+- my xitu address https://juejin.cn/user/497411949075080
 **「Stay hungry，Stay foolish.」** ❤️ 
 
 <hr/>
